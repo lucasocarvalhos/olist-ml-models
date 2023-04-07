@@ -121,4 +121,8 @@ ON t1.idVendedor = t4.idVendedor
 
 -- COMMAND ----------
 
+-- xx
+
+-- COMMAND ----------
+
 
